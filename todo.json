@@ -1,0 +1,21 @@
+{
+	"todos": [
+		{
+			"date": "2019/6/7",
+			"note": "Todo 1"
+		},
+		{
+			"date": "2019/6/7",
+			"note": "Todo 2"
+		},
+		{
+			"date": "2019/6/7",
+			"note": "Todo 3: Its cool"
+		},
+		{
+			"date": "2019/6/7",
+			"note": "Todo 4: Its awesome"
+		}
+	]
+}
+
